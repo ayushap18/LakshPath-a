@@ -3,7 +3,7 @@
 ## 📌 Quick Overview
 
 **Project Name:** LakshPath - AI-Powered Career Guidance Platform  
-**Team:** Ayush Pathak  
+**Team:** Code Catlysts
 **Repository:** https://github.com/iayus-grow/ayush18  
 **Live Demo:** https://lakshpath2.netlify.app  
 **Development Duration:** Hackathon Project (MVP Completed)  
@@ -748,7 +748,7 @@ LakshPath is ready for:
 
 ---
 
-**Submitted by:** Ayush Pathak  
+**Submitted by:** Ayush Sharma
 **Date:** November 6, 2025  
 **Project:** LakshPath - AI-Powered Career Guidance Platform  
 **Repository:** https://github.com/iayus-grow/ayush18  
